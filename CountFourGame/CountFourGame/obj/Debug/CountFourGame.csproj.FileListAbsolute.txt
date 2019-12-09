@@ -1,0 +1,9 @@
+F:\CountFourGame\CountFourGame\bin\Debug\CountFourGame.exe.config
+F:\CountFourGame\CountFourGame\bin\Debug\CountFourGame.exe
+F:\CountFourGame\CountFourGame\bin\Debug\CountFourGame.pdb
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.frmCount4.resources
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.Properties.Resources.resources
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.csproj.GenerateResource.Cache
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.exe
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.pdb
+F:\CountFourGame\CountFourGame\obj\Debug\CountFourGame.csprojResolveAssemblyReference.cache
